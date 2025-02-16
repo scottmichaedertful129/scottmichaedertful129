@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm scottmichaedertful129
 
-<!--
-**scottmichaedertful129/scottmichaedertful129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏓 🎣 🎯 🏸 Enthusiastic about design thinking 🏓 🎣 🎯 🏸
 
-Here are some ideas to get you started:
+## About Me
+🏄 🚴 🎱 A beginner in content creation 🏄 🚴 🎱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 🛹 🎵 A developer in desktop development 🏒 🛹 🎵
+
+### Fun Facts
+🎱 🎾 🏄 🎸 A freak in data science 🎱 🎾 🏄 🎸
+
+---
+🚵 🚵 🛶 🏄 🥋 Thanks for visiting my profile! 🎽 🎮 🎬 🎽 🌺
